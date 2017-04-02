@@ -9,6 +9,7 @@
   "author": "cc",
   "license": "MIT",
   "devDependencies": {
-    "vue": "^2.2.5"
+    "vue": "^2.2.5",
+    "bootstrap": "^3.3.3"
   }
 }
